@@ -59,7 +59,7 @@
   </tr>
 <table>
 <table>
-<h3>Computer Language Infomation</h3>
+<h3>Education Infomation</h3>
 <table >
   <tr>
   <td align="center"><img src="https://podsawee.com/git_img/sarasas.png" width = "150px" alt="Sarasas Witaed Thonburi"></td>
