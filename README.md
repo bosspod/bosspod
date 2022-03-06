@@ -24,11 +24,6 @@
   <td align="center"><img src="https://podsawee.com/git_img/php.png" width = "40px" height = "40px" alt="PHP"></td>
   <td align="center"><img src="https://podsawee.com/git_img/js.png" width = "40px" height = "40px" alt="Javascript"></td>
   <td align="center"><img src="https://podsawee.com/git_img/c.png" width = "40px" height = "40px" alt="C"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/c++.png" width = "40px" height = "40px" alt="C++"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/ccharp.png" width = "40px" height = "40px" alt="C#"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/java.png" width = "40px" height = "40px" alt="Java"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/python.png" width = "40px" height = "40px" alt="Python"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/perl.png" width = "40px" height = "40px" alt="Perl"></td>
   </tr>
   <tr>
   <td align="center"><p>HTML</p></td>
@@ -36,6 +31,15 @@
   <td align="center"><p>PHP</p></td>
   <td align="center"><p>Javascript</p></td>
   <td align="center"><p>C</p></td>
+  </tr>
+  <tr>
+  <td align="center"><img src="https://podsawee.com/git_img/c++.png" width = "40px" height = "40px" alt="C++"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/ccharp.png" width = "40px" height = "40px" alt="C#"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/java.png" width = "40px" height = "40px" alt="Java"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/python.png" width = "40px" height = "40px" alt="Python"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/perl.png" width = "40px" height = "40px" alt="Perl"></td>
+  </tr>
+  <tr>
   <td align="center"><p>C++</p></td>
   <td align="center"><p>C#</p></td>
   <td align="center"><p>Java</p></td>
