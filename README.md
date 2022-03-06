@@ -43,7 +43,7 @@
   <td align="center"><p>Perl</p></td>
   </tr>
 <table>
-<h3>Computer Language Infomation</h3>
+<h3>Database Infomation</h3>
 <table >
   <tr>
   <td align="center"><img src="https://podsawee.com/git_img/mysql.png" width = "40px" height = "40px" alt="MYSQL"></td>
