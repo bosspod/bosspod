@@ -47,7 +47,7 @@
 <table >
   <tr>
   <td align="center"><img src="https://podsawee.com/git_img/mysql.png" width = "40px" height = "40px" alt="MYSQL"></td>
-    <td align="center"><img src="https://podsawee.com/git_img/sqlite.png" width = "40px" height = "40px" alt="SQLite"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/sqlite.png" width = "40px" height = "40px" alt="SQLite"></td>
   <td align="center"><img src="https://podsawee.com/git_img/mariadb.png" width = "40px" height = "40px" alt="MariaDB"></td>
   <td align="center"><img src="https://podsawee.com/git_img/mongodb.png" width = "40px"  height = "40px" alt="MongoDB"></td>
   </tr>
@@ -56,6 +56,25 @@
   <td align="center"><p>SQLite</p></td>
   <td align="center"><p>MariaDB</p></td>
   <td align="center"><p>MongoDB</p></td>
+  </tr>
+<table>
+<table>
+<h3>Computer Language Infomation</h3>
+<table >
+  <tr>
+  <td align="center"><img src="https://podsawee.com/git_img/sarasas.png" width = "150px" alt="Sarasas Witaed Thonburi"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/ac.png" width = "150px" alt="Assumption College"></td>
+  <td align="center"><img src="https://podsawee.com/git_img/kmutt.png" width = "150px" alt="MariaDB"></td>
+  </tr>
+  <tr>
+  <td align="center"><p>Sarasas Witaed Thonburi</p></td>
+  <td align="center"><p>Assumption College</p></td>
+  <td align="center"><p>King Mongkut’s University of Technology Thonburi</p></td>
+  </tr>
+  <tr>
+  <td align="center"><p>2005-2008</p></td>
+  <td align="center"><p>2008-2022</p></td>
+  <td align="center"><p>Wanna Entry (Not pass selected | Portfolio Round)</p></td>
   </tr>
 <table>
 <br>
