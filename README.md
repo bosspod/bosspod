@@ -74,7 +74,7 @@
   <tr>
   <td align="center"><p>2005-2008</p></td>
   <td align="center"><p>2008-2022</p></td>
-  <td align="center"><p>Wanna Entry (Selected | Inter Ad. 2)</p></td>
+  <td align="center"><p>2022-Now</p></td>
   </tr>
 <table>
 <br>
