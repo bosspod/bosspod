@@ -1,15 +1,6 @@
 <div align="center">
   <img src="https://podsawee.com/img/Logo.png" width = "80px" height = "80px" alt="Logo">
   <h2>👋Hi There!👋<br> I'm Podsawee Wanatham</h2>
-<h3>😄 MY Picture 😄</h3>
-<table>
-  <tr>
-  <td align="center"><img src="https://podsawee.com/git_img/my_pic_2.jpg" width = "100%" alt="MY PIC"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/my_pic_1.jpg" width = "100%" alt="MY PIC"></td>
-  <td align="center"><img src="https://podsawee.com/git_img/my_pic_3.jpg" width = "100%"  alt="MY PIC"></td>
-  </tr>
-<table>
-<br>
 <h3>💬 About me 💬</h3>
 <h3>Personal Infomation</h3>
   <h4>Date of birth</h4>
