@@ -1,14 +1,8 @@
 <div align="center">
   <img src="https://podsawee.com/img/Logo.png" width = "80px" height = "80px" alt="Logo">
-  <h2>👋Hi There!👋<br> I'm Podsawee Wanatham<br></h2>
+  <h2>👋Hi There!👋<br> I'm Podsawee Wanatham<br><br></h2>
 
-<h3>💬 About me 💬</h3>
-  <br>
-<h3>Personal Infomation</h3>
-  <h4>Date of birth</h4>
-  <p>20 November 2003</p>
-  <h4>Age</h4>
-  <p>18 years old</p>
+<h3>💬 My Skill 💬</h3>
 <h3>Computer Language Infomation</h3>
 <table>
   <tr>
@@ -65,15 +59,26 @@
   <td align="center"><p>King Mongkut’s University of Technology Thonburi</p></td>
   </tr>
   <tr>
+  <td align="center"><p>Bilingual</p></td>
+  <td align="center"><p>Math-Sci-Tech</p></td>
+  <td align="center"><p>Computer Engineering</p></td>
+  </tr>
+  <tr>
   <td align="center"><p>2005-2008</p></td>
   <td align="center"><p>2008-2022</p></td>
   <td align="center"><p>2022-Now</p></td>
   </tr>
 <table>
 <br>
-<h3>📫 Contact Me 📫</h3>
-  <a href="https://podsawee.com/contact/" target="_blank">
-  <img src="https://podsawee.com/img/Logo.png" width = "80px" height = "80px" alt="Logo">
-  <p>Click Here</p>
+<h3>📫 Link To 📫</h3>
+<table>
+  <tr>
+  <td align="center"><img src="https://podsawee.com/img/Logo.png" width = "80px" height = "80px" alt="Logo"><h4>Contact</h4></td>  
+  <td align="center"><img src="https://podsawee.com/img/Logo.png" width = "80px" height = "80px" alt="Logo"><h4>CV</h4></td>  
+  </tr>
+  <tr>
+  <td align="center"><a href="https://podsawee.com/contact/" target="_blank">Click Here</td>
+  <td align="center"><a href="https://podsawee.com/cv" target="_blank">Click Here</td>
+  </tr>
   </a>
 </div>
